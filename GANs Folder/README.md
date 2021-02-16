@@ -1,1 +1,1 @@
-The synthetic data generated with GANs in this study was based on a modification of this paper "Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs". Please refer to https://github.com/ratschlab/RGAN for the original code for the GAN implementation.
+The synthetic data generated in this study was based on a modification of the RGAN used in this paper "Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs". Please refer to https://github.com/ratschlab/RGAN for the original code for the GAN implementation.
