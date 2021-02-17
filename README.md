@@ -1,4 +1,4 @@
-# predicting-outbreaks-with-climate-change-
+# predicting-disease-outbreaks-with-climate-change-
 
 This repository contains the code for the thesis report "Predicting Diarrhoea Outbreak with Climate Change".
 
